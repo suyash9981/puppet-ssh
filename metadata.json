@@ -1,0 +1,15 @@
+{
+  "name": "suyash-ssh",
+  "version": "0.1.0",
+  "author": "Suyash Shrivastava",
+  "summary": "This is for ssh testing module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/suyash9981/puppet-ssh",
+  "project_page": "https://github.com/suyash9981/puppet-ssh",
+  "issues_url": "https://github.com/suyash9981/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
